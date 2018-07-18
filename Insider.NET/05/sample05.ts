@@ -10,4 +10,4 @@ if (score < 60) {
 } else {
     rnum = 3;
 }
-alert("あなたの成績は"+ rank[rnum] + "です");
+alert("あなたの成績は" + rank[rnum] + "です");
